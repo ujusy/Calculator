@@ -6,9 +6,6 @@
 
 >숫자를 누르면 라벨에 뜨워주고 연산자를 누르고 숫자를 누르면 새로운 숫자가 라벨에 나오고 equl버튼을 누르면 결과값을 도출한다. 
 
-<img src="https://user-images.githubusercontent.com/49120090/81569259-025ca100-93da-11ea-8b20-d6bae6f1986b.png" alt="image" style="zoom:25%;" align="left" /><img src="/Users/uju_sy/Library/Application Support/typora-user-images/image-20200511225518867.png" alt="image-20200511225518867" style="zoom:25%;" /><img src="https://user-images.githubusercontent.com/49120090/81569881-d1c93700-93da-11ea-824b-fe182e5627f7.png" alt="image" style="zoom:25%;" />
-
-
 
 1+2 = 누르면 3이 나온다. 
 
@@ -88,5 +85,4 @@
 
 
 
-<img src="/Users/uju_sy/Library/Application Support/typora-user-images/image-20200511225542631.png" alt="image-20200511225542631" style="zoom:25%;" />
 
